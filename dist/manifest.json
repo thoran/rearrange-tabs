@@ -14,7 +14,7 @@
       "suggested_key": {
         "default": "Shift+Alt+Left",
         "windows": "Shift+Alt+Left",
-        "mac": "MacCtrl+Shift+Left"
+        "mac": "Ctrl+Shift+Left"
       },
       "description": "Move selected tab(s) left"
     },
@@ -22,7 +22,7 @@
       "suggested_key": {
         "default": "Shift+Alt+Right",
         "windows": "Shift+Alt+Right",
-        "mac": "MacCtrl+Shift+Right"
+        "mac": "Ctrl+Shift+Right"
       },
       "description": "Move selected tab(s) right"
     },
@@ -30,7 +30,7 @@
       "suggested_key": {
         "default": "Shift+Alt+Down",
         "windows": "Shift+Alt+Down",
-        "mac": "MacCtrl+Shift+Down"
+        "mac": "Ctrl+Shift+Down"
       },
       "description": "Move selected tab(s) to the front"
     },
@@ -38,7 +38,7 @@
       "suggested_key": {
         "default": "Shift+Alt+Up",
         "windows": "Shift+Alt+Up",
-        "mac": "MacCtrl+Shift+Up"
+        "mac": "Ctrl+Shift+Up"
       },
       "description": "Move selected tab(s) to the end"
     }
